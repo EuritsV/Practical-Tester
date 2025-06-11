@@ -9,7 +9,7 @@ Aprender a estimar tempo, esforço e recursos necessários para as atividades de
 - Evita subestimar ou superestimar esforço
 - Ajuda a planear sprints, marcos e entregas
 - Permite alocar testadores de forma inteligente
-- Garante visibilidade ao time e aos stakeholders
+- Garante visibilidade a equipa e aos stakeholders
 
 ### 🧠 Three Point Estimation (Técnica dos Três Pontos)
 
