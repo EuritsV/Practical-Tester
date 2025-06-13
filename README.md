@@ -121,6 +121,7 @@ Plano de teste para uma aplicação de lista de tarefas (To-Do App), incluindo r
 
 - IEEE 29119-3:2021 – Software and Systems Engineering — Software Testing — Part 3: Test Documentation
 - ISTQB Foundation Level Syllabus
+- A4Q Practical Tester
 - Princípios de Testes Ágeis e TDD/ATDD
 - Técnicas de Estimativa PERT / Three-Point Estimation
 
